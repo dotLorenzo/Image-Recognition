@@ -1,4 +1,4 @@
-# Image-Recognition
+# Image-Recognition (Machine Learning)
 
 Classify characters from the Dragon Ball Series (Kid Goku, Krillin, Tienshinhan) with accuracy of 73%.
 
