@@ -1,6 +1,6 @@
 # Image-Recognition (Machine Learning)
 
-Classify characters from the Dragon Ball Series (Kid Goku, Krillin, Tienshinhan) with accuracy of 73%.
+Classify characters from the Dragon Ball Series (Kid Goku, Krillin, Tienshinhan) with accuracy of 73% using a CNN.
 
 See Jupyter notebook file. The saved model 'dragon-ball-classifier-3.h5' should be used if one wants to use this for classification.
 
